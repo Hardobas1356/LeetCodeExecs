@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyTemperatures", "DailyT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinStack", "MinStack\MinStack.csproj", "{3F4BC61B-DE2D-471B-9DB0-BA6CFD49A41F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateParenthases", "GenerateParenthases\GenerateParenthases.csproj", "{8AC31868-90A7-4365-9D00-5803A6D38717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{E665DF51-1580-4098-AEA3-FEA945172689}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{3F4BC61B-DE2D-471B-9DB0-BA6CFD49A41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F4BC61B-DE2D-471B-9DB0-BA6CFD49A41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F4BC61B-DE2D-471B-9DB0-BA6CFD49A41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC31868-90A7-4365-9D00-5803A6D38717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC31868-90A7-4365-9D00-5803A6D38717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC31868-90A7-4365-9D00-5803A6D38717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC31868-90A7-4365-9D00-5803A6D38717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E665DF51-1580-4098-AEA3-FEA945172689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E665DF51-1580-4098-AEA3-FEA945172689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E665DF51-1580-4098-AEA3-FEA945172689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E665DF51-1580-4098-AEA3-FEA945172689}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
